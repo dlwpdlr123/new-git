@@ -13,6 +13,6 @@
 
 [경일대학교](http://www.kiu.ac.kr)
 
-![고양이사진](사용자/이제익/hello-git/images/1.jpg)
+![고양이사진](images/1.jpg)
 
 
